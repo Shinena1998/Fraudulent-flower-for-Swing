@@ -46,6 +46,7 @@ public class App {
         audioInputStream.close();
         sourceDataLine.drain();
         sourceDataLine.close();
+        System.out.println("meiyong");
     }
 
     public static void main(String[] args) {
