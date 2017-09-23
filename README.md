@@ -2,10 +2,10 @@
 * 扎金花3.1最终版 全面安全所有界面按钮，无论多按缺按都会提醒。
 ------
 
-1.进入界面  Initial333.java
-2.选择加分以及难度界面  EasyOrDiffierent.java
-3.发牌与选择是否看牌界面 Deal.java
-4.弃牌界面 pokerWindow.java
+1. 进入界面  Initial333.java
+2. 选择加分以及难度界面  EasyOrDiffierent.java
+3. 发牌与选择是否看牌界面 Deal.java
+4. 弃牌界面 pokerWindow.java
 5.批次加分界面 AddGrade.java
 6.结算胜负界面 ThrowHandPoker.java
 7.最终胜负界面 EndWinodw.java
